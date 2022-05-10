@@ -54,3 +54,11 @@
   <project path="packages/providers/DownloadProvider" name="packages_providers_DownloadProvider" remote="altho" />
   <project path="packages/providers/MediaProvider" name="packages_providers_MediaProvider" remote="altho" />
   <project path="packages/apps/RepainterServicePriv" name="packages_apps_RepainterServicePriv" remote="altho" />
+
+  <!-- System Repos -->
+  <project path="system/bt" name="system_bt" remote="altho" />
+  <project path="system/netd" name="system_netd" remote="altho" />
+  <project path="system/sepolicy" name="system_sepolicy" remote="altho" />
+  <project path="system/vold" name="system_vold" remote="altho" />
+  <project path="system/update_engine" name="system_update_engine" remote="altho" />
+  <project path="system/tools/mkbootimg" name="system_tools_mkbootimg" remote="altho" />
