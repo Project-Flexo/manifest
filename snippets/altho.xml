@@ -62,3 +62,9 @@
   <project path="system/vold" name="system_vold" remote="altho" />
   <project path="system/update_engine" name="system_update_engine" remote="altho" />
   <project path="system/tools/mkbootimg" name="system_tools_mkbootimg" remote="altho" />
+
+  <!-- Device Repos -->	  
+  <project path="device/qcom/sepolicy-legacy-um" name="device_qcom_sepolicy-legacy-um" remote="altho" />
+  <project path="device/qcom/sepolicy_vndr" name="device_qcom_sepolicy_vndr" remote="altho" />
+  <project path="device/qcom/sepolicy" name="device_qcom_sepolicy" remote="altho" />
+
