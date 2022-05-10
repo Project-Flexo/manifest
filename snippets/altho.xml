@@ -5,6 +5,10 @@
           fetch="https://github.com/Project-Altho"
           revision="12.1.x" />
 
+  <remote name="pixel-gitlab"
+          fetch="https://gitlab.com/PixelExperience/twelve"
+          revision="twelve" />
+
   <!-- Framework repos -->
   <project path="frameworks/av" name="frameworks_av" remote="altho" />
   <project path="frameworks/base" name="frameworks_base" remote="altho" />
@@ -68,3 +72,6 @@
   <project path="device/qcom/sepolicy_vndr" name="device_qcom_sepolicy_vndr" remote="altho" />
   <project path="device/qcom/sepolicy" name="device_qcom_sepolicy" remote="altho" />
 
+  <!-- Vendor Stuff -->
+  <project path="vendor/gapps" name="vendor_gapps" remote="pixel-gitlab" clone-depth="1" />
+  <project path="vendor/custom-preference" name="vendor_custom-preference" remote="altho" />
