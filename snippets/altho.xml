@@ -40,6 +40,7 @@
   <project path="manifest" name="manifest" remote="altho" />
   <project path="platform_testing" name="platform_testing" remote="altho" />
   <project path="vendor/aosp" name="vendor_aosp" remote="altho" />
+  <project path="vendor/PixelLauncher" name="vendor_PixelLauncher" remote="altho" />
 
   <!-- Hardware repos -->
   <project path="hardware/custom/interfaces" name="hardware_custom_interfaces" remote="altho" />
