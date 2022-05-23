@@ -51,6 +51,7 @@
 
   <!-- Packages repos -->
   <project path="packages/apps/Bluetooth" name="packages_apps_Bluetooth" remote="altho" />
+  <project path="packages/apps/ALTRUIST" name="packages_apps_ALTRUIST" remote="altho" />
   <project path="packages/apps/Settings" name="packages_apps_Settings" remote="altho" />
   <project path="packages/apps/Nfc" name="packages_apps_Nfc" remote="altho" />
   <project path="packages/services/Telecomm" name="packages_services_Telecomm" remote="altho" />
