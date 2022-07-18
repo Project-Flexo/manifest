@@ -8,6 +8,10 @@
   <remote name="github"
           fetch="https://github.com/" />
 
+  <remote  name="altho-gitlab"
+           fetch="https://gitlab.com/yusufnoor786"
+           revision="refs/heads/12.1.x" />	
+
   <default revision="refs/tags/android-12.1.0_r10"
            remote="aosp"
            sync-j="4" 
