@@ -53,6 +53,7 @@
   <project path="packages/apps/ALTRUIST" name="packages_apps_ALTRUIST" remote="altho" />
   <project path="packages/apps/Settings" name="packages_apps_Settings" remote="altho" />
   <project path="packages/apps/Nfc" name="packages_apps_Nfc" remote="altho" />
+  <project path="packages_overlays_Themes" name="packages_overlays_Themes" remote="altho" />
   <project path="packages/services/Telecomm" name="packages_services_Telecomm" remote="altho" />
   <project path="packages/services/Telephony" name="packages_services_Telephony" remote="altho" />
   <project path="packages/resources/devicesettings" name="packages_resources_devicesettings" remote="altho" />
