@@ -26,7 +26,7 @@ repo init --depth=1 -u https://github.com/Project-Altho/manifest -b 12.1.x
 
 ### Download the source
 ```bash 
-repo sync -c -j$(nproc --all) --force-sync --no-clone-bundle --no-tags
+repo sync --force-sync
 ```
 
 ### Build
@@ -37,6 +37,10 @@ repo sync -c -j$(nproc --all) --force-sync --no-clone-bundle --no-tags
 lunch aosp_$device-userdebug
 # Build the code
 m start -jX
+```
+# For Default Pixel Launcher Choose Flag
+```bash
+WITH_PIXEL_LAUNCHER := true
 ```
 
 ### Credits
