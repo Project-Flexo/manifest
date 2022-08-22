@@ -12,7 +12,7 @@
            fetch="https://gitlab.com/yusufnoor786"
            revision="refs/heads/12.1.x" />	
 
-  <default revision="refs/tags/android-12.1.0_r10"
+  <default revision="refs/tags/android-13.0.0_r3"
            remote="aosp"
            sync-j="4" 
            sync-c="true"
