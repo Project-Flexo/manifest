@@ -2,7 +2,7 @@
 <manifest>
 
   <remote name="flexo"
-          fetch="https://github.com/Project-Altho"
+          fetch="https://github.com/Project-Flexo"
           revision="13" />
 
   <remote name="elixir-gitlab"
