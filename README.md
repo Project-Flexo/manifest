@@ -15,13 +15,13 @@ cd Altho
 >> [Hint: This might take a long time]
 
 ```bash
-repo init -u https://github.com/Project-Altho/manifest -b 12.1.x
+repo init -u https://github.com/Project-Flexo/manifest -b 12.1.x
 ```
 
 >> [Hint: Want to save some space ? Then use this]
 
 ```bash
-repo init --depth=1 -u https://github.com/Project-Altho/manifest -b 12.1.x
+repo init --depth=1 -u https://github.com/Project-Flexo/manifest -b 12.1.x
 ```
 
 ### Download the source

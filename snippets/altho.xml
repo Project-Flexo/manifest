@@ -2,7 +2,7 @@
 <manifest>
 
   <remote name="altho"
-          fetch="https://github.com/Project-Altho"
+          fetch="https://github.com/Project-Flexo"
           revision="12.1.x" />
 
   <remote name="pixel-gitlab"
