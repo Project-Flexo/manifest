@@ -131,6 +131,7 @@
   <project path="system/libhwbinder" name="system_libhwbinder" remote="flexo" />
   <project path="system/sepolicy" name="system_sepolicy" remote="flexo" />
   <project path="system/security" name="system_security" remote="flexo" />
+  <project path="system/media" name="system_media" remote="flexo" />
   <project path="system/core" name="android_system_core" remote="flexo" />
   <project path="system/tools/mkbootimg" name="system_tools_mkbootimg" remote="flexo" />
   
