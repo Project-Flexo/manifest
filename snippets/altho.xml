@@ -115,6 +115,7 @@
   <!-- Packages repos -->
   <project path="packages/apps/Nfc" name="packages_apps_Nfc" remote="flexo" />
   <project path="packages/apps/Wings" name="packages_apps_Wings" remote="flexo" />
+  <projetc path="packages/apps/GameSpace" name="packages_apps_GameSpace" remote="flexo" />
   <project path="packages/apps/SettingsIntelligence" name="packages_apps_SettingsIntelligence" remote="flexo" />
   <project path="packages/apps/Settings" name="packages_apps_Settings" remote="flexo" />
   <project path="packages/apps/ThemePicker" name="packages_apps_ThemePicker" remote="flexo" />
