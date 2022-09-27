@@ -1,4 +1,4 @@
-# Project Altho
+# Project Flexo
 
 ### Create a directory for the source files
 * You can name this directory however you want, just remember to replace 
@@ -6,8 +6,8 @@
 * This can be located anywhere (as long as the fs is case-sensitive)
 
 ```bash 
-mkdir Altho 
-cd Altho
+mkdir Flexo 
+cd Flexo
 ```
 
 ### Install Repo in the created directory
