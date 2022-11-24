@@ -5,6 +5,9 @@
           fetch="https://github.com/Project-Flexo"
           revision="13.0" />
 
+  <remote name="lineage"
+          fetch="https://github.com/LineageOS" />
+
 <!-- Custom repos -->
   <project path="manifest" name="manifest" remote="flexo" />
   <project path="vendor/aosp" name="vendor_aosp" remote="flexo" />
@@ -15,5 +18,10 @@
   <project path="packages/apps/Settings" name="packages_apps_Settings" remote="flexo" />
   <project path="packages/apps/Wings" name="Wings_Settings" remote="flexo" />
   <project path="system/core" name="system_core" remote="flexo" />
+
+<!-- Lineage -->
+  <project path="hardware/qcom-caf/sm8350/audio" name="android_hardware_qcom_audio" remote="lineage" revision="lineage-20.0-caf-sm8350" />
+  <project path="hardware/qcom-caf/sm8350/display" name="android_hardware_qcom_display" remote="lineage" revision="lineage-20.0-caf-sm8350" />
+  <project path="hardware/qcom-caf/sm8350/media" name="android_hardware_qcom_media" remote="lineage" revision="lineage-20.0-caf-sm8350" />
 
 </manifest>
