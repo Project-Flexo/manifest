@@ -8,6 +8,7 @@
 <!-- Custom repos -->
   <project path="manifest" name="manifest" remote="flexo" />
   <project path="vendor/aosp" name="vendor_aosp" remote="flexo" />
+  <project path="vendor/custom-preference" name="vendor_support" remote="flexo" />
   <project path="frameworks/base" name="frameworks_base" remote="flexo" />
   <project path="frameworks/av" name="frameworks_av" remote="flexo" />
   <project path="packages/apps/Settings" name="packages_apps_Settings" remote="flexo" />
