@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <remote name="flexo"
+          fetch="https://github.com/Project-Flexo"
+          revision="13.0" />
+
+<!-- Custom repos -->
+  <project path="manifest" name="manifest" remote="flexo" />
+  <project path="vendor/aosp" name="vendor_aosp" remote="flexo" />
+  <project path="frameworks/base" name="frameworks_base" remote="flexo" />
+  <project path="packages/apps/Settings" name="packages_apps_Settings" remote="flexo" />
+  <project path="packages/apps/Wings" name="Wings_Settings" remote="flexo" />
+
+</manifest>
