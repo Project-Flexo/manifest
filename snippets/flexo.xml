@@ -11,5 +11,6 @@
   <project path="frameworks/base" name="frameworks_base" remote="flexo" />
   <project path="packages/apps/Settings" name="packages_apps_Settings" remote="flexo" />
   <project path="packages/apps/Wings" name="Wings_Settings" remote="flexo" />
+  <project path="system/core" name="system_core" remote="flexo" />
 
 </manifest>
