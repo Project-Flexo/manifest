@@ -14,6 +14,7 @@
   <project path="vendor/custom-preference" name="vendor_support" remote="flexo" />
   <project path="vendor/overlays" name="vendor_custom_overlay" remote="flexo" />
   <project path="vendor/qcom/opensource/commonsys-intf/display" name="vendor_qcom_opensource_commonsys-intf_display" remote="flexo" />
+  <project path="vendor/pixel-framework" name="vendor_pixel-framework" remote="flexo" />
   <project path="frameworks/base" name="frameworks_base" remote="flexo" />
   <project path="frameworks/av" name="frameworks_av" remote="flexo" />
   <project path="packages/apps/Settings" name="packages_apps_Settings" remote="flexo" />
