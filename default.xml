@@ -1187,9 +1187,6 @@
   <include name="snippets/remove.xml" />
 
   <!-- Add all Pixel+Flexo repos -->
-  <include name="snippets/pixel.xml" />
-  <include name="snippets/pixel-extras.xml" />
-  <include name="snippets/pixel-caf.xml" />
-  <include name="snippets/flexo.xml" />
+  <include name="snippets/source.xml" />
 
 </manifest>
