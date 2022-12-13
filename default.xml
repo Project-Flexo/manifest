@@ -1186,9 +1186,7 @@
   <!-- Remove unused AOSP repos -->
   <include name="snippets/remove.xml" />
 
-  <!-- Add all PixelExperience repos -->
-  <include name="snippets/pixel.xml" />
-  <include name="snippets/pixel-extras.xml" />
-  <include name="snippets/pixel-caf.xml" />
+  <!-- Add all PixelExperience + Flexo repos -->
+  <include name="snippets/flexo.xml" />
 
 </manifest>
