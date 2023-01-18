@@ -68,6 +68,7 @@
   <project path="device/qcom/sepolicy-legacy-um" name="device_qcom_sepolicy-legacy-um" remote="pixel" />
   <project path="device/qcom/sepolicy_vndr" name="device_qcom_sepolicy_vndr" remote="pixel" />
   <project path="device/qcom/wlan" name="device_qcom_wlan" remote="pixel" />
+  <project path="device/qcom/sepolicy_vndr-legacy-um" name="device_qcom_sepolicy_vndr-legacy-um" remote="pixel" />
   
   <!-- Framework repos -->
   <project path="frameworks/base" name="frameworks_base" remote="flexo" />
