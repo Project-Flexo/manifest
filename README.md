@@ -36,7 +36,7 @@ repo sync --force-sync
 # Choose a target
 lunch aosp_$device-userdebug
 # Build the code
-m start -jX
+mka bacon -jX
 ```
 
 ### Credits
